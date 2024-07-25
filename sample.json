@@ -1,0 +1,25 @@
+[
+  {
+    "version": "1.0.1",
+
+    "url": "https://aunghtetkyawknight.github.io/update_test/beta_1.0.1.apk",
+
+    "releaseNotes": "New update 1.0.1!",
+
+    "releaseDate": "2024-02-29T17:58:25Z",
+
+    "sha512": "00217e5da279ba038de9eb5d5f61d56a818edb657647d4d224609d90f9bae4eb5cac1e8be1cf97f34c4e0090126928dc77a6263ccefdc6edbe2b2ae6024d7798"
+  },
+
+  {
+    "version": "1.0.0",
+
+    "url": "https://aunghtetkyawknight.github.io/update_test/beta_1.0.0.apk",
+
+    "releaseNotes": "New update 1.0.1!",
+
+    "releaseDate": "2024-02-29T16:58:25Z",
+
+    "sha512": "ff8b1cccbba7fbda447c7f9a839e610ea098073e6f4aad3ede924b98e2d6ae38c9559c21a1d50ea0345bf96efdb63e7d2f0aa1c11bcfa086c0430a5e656692c8"
+  }
+]
