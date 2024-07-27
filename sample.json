@@ -1,17 +1,5 @@
 [
   {
-    "version": "1.0.1",
-
-    "url": "https://BrillianceOsprey.github.io/inappupdate/version1.0.1.apk",
-
-    "releaseNotes": "New update 1.0.1!",
-
-    "releaseDate": "2024-07-27T17:39:35Z",
-
-    "sha512": "00217e5da279ba038de9eb5d5f61d56a818edb657647d4d224609d90f9bae4eb5cac1e8be1cf97f34c4e0090126928dc77a6263ccefdc6edbe2b2ae6024d7798"
-  },
-
-  {
     "version": "1.0.2",
 
     "url": "https://BrillianceOsprey.github.io/inappupdate/version1.0.2.apk",
@@ -21,5 +9,17 @@
     "releaseDate": "2024-07-28T13:50:30Z",
 
     "sha512": "9b71d224bd62f3785d96d46ad3ea3d73319bfbc2890caadae2dff72519673ca72323c3d99ba5c11d7c7acc6e14b8c5da0c4663475c2e5c3adef46f73bcdec043"
+  },
+
+  {
+    "version": "1.0.1",
+
+    "url": "https://BrillianceOsprey.github.io/inappupdate/version1.0.1.apk",
+
+    "releaseNotes": "New update 1.0.1!",
+
+    "releaseDate": "2024-07-27T17:39:35Z",
+
+    "sha512": "00217e5da279ba038de9eb5d5f61d56a818edb657647d4d224609d90f9bae4eb5cac1e8be1cf97f34c4e0090126928dc77a6263ccefdc6edbe2b2ae6024d7798"
   }
 ]
